@@ -1,6 +1,6 @@
 # Mongosync
 
-Demonstrates the ability of *mongosync* to continually replicate data between two MongoDB clusters.
+This Demonstrates the ability of *mongosync* to continually replicate data between two MongoDB clusters.
 
 Use launchRS.source.sh to deploy a MongoDB Replica Set on your local machine, to act as the *source* cluster.
 
