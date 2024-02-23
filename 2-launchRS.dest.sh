@@ -1,6 +1,6 @@
 #!/bin/bash
 # Deploys and initiates a multi-node replica set on localhost
-# to act as the DESTINATION for mongosync.
+# to act as the destination for mongosync.
 
 source demo.conf
 
